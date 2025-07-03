@@ -1,6 +1,6 @@
 ps: melhor usar o pnpm pela performance, o npm é meio demorado.
 
-First, run the development server:
+Primeiro, instalar as dependências, depois subir o servidor local:
 
 ```bash
 
@@ -13,4 +13,4 @@ npm dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Basta abrir [http://localhost:3000](http://localhost:3000) em qualquer navegador.
